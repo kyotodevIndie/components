@@ -5,12 +5,10 @@
 </p>
 
   <p align="center">
-    project done in the Next Level Week from 
-    <a href="https://rocketseat.com.br/"> Rocketseat </a>
-    to help those who spend a lot of time on the computer to exercise
+    A project containing all the components that I created for fun
     <br />
     <br />
-    <a href="https://move-it-coral.vercel.app/">View Demo</a>
+    <a href="#">View Demo</a>
 </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -24,7 +22,7 @@
 1. Clone the repo
 
 ```sh
-git clone https://github.com/kyotodevIndie/move-it.git
+git clone https://github.com/kyotodevIndie/components.git
 ```
 
 2. Install the packages using NPM or Yarn
